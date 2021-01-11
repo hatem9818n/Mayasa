@@ -3,8 +3,13 @@ For all employees
 Record remain
 Int salary, hour, month, promotion 
 Read salary, hour work, month
+if
 Salary=hour work *month
 Print salary
-
+End if
+if
 promotion= month+salary
 Print promotion
+End if
+End for
+
