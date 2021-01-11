@@ -1,0 +1,10 @@
+Start 
+For all employees
+Record remain
+Int salary, hour, month, promotion 
+Read salary, hour work, month
+Salary=hour work *month
+Print salary
+
+promotion= month+salary
+Print promotion
